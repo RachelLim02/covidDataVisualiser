@@ -2,5 +2,5 @@
 
 This Covid data visualiser is made with live data fetched from the API using React, Charts.JS and Material UI.
 It displays a line chart for global Covid cases and bar charts for country specific data.
-There's also cards on top that indicates the total infections, recoveries and deaths.
-https://angry-bohr-92c8cd.netlify.app/
+There's also cards on top that indicates the total infections, recoveries and deaths.  </br>
+Demo: https://angry-bohr-92c8cd.netlify.app/
